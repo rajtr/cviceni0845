@@ -2,3 +2,4 @@ treti
 uprava
 tohle je druhy soubor
 ctvrty
+tohle bude konflikt
